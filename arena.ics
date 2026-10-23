@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Deutschland – Serbien · UEFA Nations League\, 3. Spieltag
 DTSTART:20261001T184500Z
 DTEND:20261001T204500Z
-DTSTAMP:20261023T163653Z
+DTSTAMP:20261023T164601Z
 UID:2026-2027-deutschland-serbien-uefa-nations-league-3-spieltag@arena-scr
  ape
 LOCATION:Allianz Arena\, München
@@ -18,7 +18,7 @@ BEGIN:VEVENT
 SUMMARY:FC Bayern – Leipzig · Bundesliga\, 6. Spieltag
 DTSTART:20261017T163000Z
 DTEND:20261017T183000Z
-DTSTAMP:20261023T163653Z
+DTSTAMP:20261023T164601Z
 UID:2026-2027-fc-bayern-m-nchen-rb-leipzig-bundesliga-6-spieltag@arena-scr
  ape
 LOCATION:Allianz Arena\, München
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:FC Bayern – FC Arsenal · Champions League\, 3. Spieltag
 DTSTART:20261021T190000Z
 DTEND:20261021T210000Z
-DTSTAMP:20261023T163653Z
+DTSTAMP:20261023T164601Z
 UID:2026-2027-fc-bayern-m-nchen-fc-arsenal-champions-league-3-spieltag@are
  na-scrape
 LOCATION:Allianz Arena\, München
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:FC Bayern – Magdeburg · DFB-Pokal\, 2. Runde
 DTSTART:20261028T194500Z
 DTEND:20261028T223000Z
-DTSTAMP:20261023T163653Z
+DTSTAMP:20261023T164601Z
 UID:2026-2027-fc-bayern-m-nchen-1-fc-magdeburg-dfb-pokal-2-runde@arena-scr
  ape
 LOCATION:Allianz Arena\, München
@@ -49,7 +49,7 @@ SUMMARY:[Zeit vorläufig] FC Bayern – Dortmund · Bundesliga\, 8. Spielt
  ag
 DTSTART:20261031T173000Z
 DTEND:20261031T193000Z
-DTSTAMP:20261023T163653Z
+DTSTAMP:20261023T164601Z
 UID:2026-2027-fc-bayern-m-nchen-borussia-dortmund-bundesliga-8-spieltag@ar
  ena-scrape
 LOCATION:Allianz Arena\, München
@@ -60,7 +60,7 @@ SUMMARY:Detroit Lions – New England Patriots · National Football League
  \, NFL
 DTSTART:20261115T143000Z
 DTEND:20261115T180000Z
-DTSTAMP:20261023T163653Z
+DTSTAMP:20261023T164601Z
 UID:2026-2027-detroit-lions-new-england-patriots-national-football-league-
  nfl@arena-scrape
 LOCATION:Allianz Arena\, München
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:[Anstoß offen] FC Bayern – Köln · Bundesliga\, 10. Spieltag
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261023T163653Z
+DTSTAMP:20261023T164601Z
 UID:2026-2027-fc-bayern-m-nchen-1-fc-k-ln-bundesliga-10-spieltag@arena-scr
  ape
 LOCATION:Allianz Arena\, München
@@ -81,7 +81,7 @@ SUMMARY:[Anstoß offen] FC Bayern – Paderborn · Bundesliga\, 12. Spielt
  ag
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261023T163653Z
+DTSTAMP:20261023T164601Z
 UID:2026-2027-fc-bayern-m-nchen-sc-paderborn-07-bundesliga-12-spieltag@are
  na-scrape
 LOCATION:Allianz Arena\, München
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:FC Bayern – Slavia Prag · Champions League\, 6. Spieltag
 DTSTART:20261208T200000Z
 DTEND:20261208T220000Z
-DTSTAMP:20261023T163653Z
+DTSTAMP:20261023T164601Z
 UID:2026-2027-fc-bayern-m-nchen-sk-slavia-prag-champions-league-6-spieltag
  @arena-scrape
 LOCATION:Allianz Arena\, München
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:[Anstoß offen] FC Bayern – Bremen · Bundesliga\, 14. Spieltag
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20261023T163653Z
+DTSTAMP:20261023T164601Z
 UID:2026-2027-fc-bayern-m-nchen-sv-werder-bremen-bundesliga-14-spieltag@ar
  ena-scrape
 LOCATION:Allianz Arena\, München
